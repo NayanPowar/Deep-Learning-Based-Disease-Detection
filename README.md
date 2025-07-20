@@ -1,1 +1,1 @@
-# eep-Learning-Based-Disease-Detection
+#  Deep-Learning-Based-Disease-Detection
